@@ -12,7 +12,7 @@
 
 This project explores **sales forecasting** using both traditional and advanced time series models, delivering actionable insights for decision-makers.
 
-We analyzed **two years of monthly and daily sales data** from AdventureWorks, built robust models, and evaluated their accuracy and adaptability — providing clear recommendations aligned with business realities.
+We analyzed **two years of monthly and daily sales data** from AdventureWorks, built robust models, and evaluated their accuracy and adaptability, providing clear recommendations aligned with business realities.
 
 ---
 
