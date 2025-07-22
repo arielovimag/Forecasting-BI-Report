@@ -1,3 +1,13 @@
+![Azure Maps Cover](azure_maps_cover.png)
+
+---
+
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-blue?logo=Power%20BI)](https://app.powerbi.com/view?r=eyJrIjoiMDEzYTZmNjMtYjNjMS00YzUyLTlhOWEtODY4ZmY4ZmZjZmRiIiwidCI6IjQwOWY3ZjkzLTQ0N2EtNDBiYi05YzVjLWQ1MjI1M2E1ZjM5YiIsImMiOjZ9)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?logo=GitHub)](https://github.com/arielovimag/adventureworks-bi-portfolio)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red?logo=Microsoft%20SQL%20Server)]()
+[![Azure Maps](https://img.shields.io/badge/Azure-Maps-blue?logo=Microsoft%20Azure)]()
+
+
 # 📈 Sales Forecasting & Time Series Analysis: AdventureWorks Case Study
 
 This project explores **sales forecasting** using both traditional and advanced time series models, delivering actionable insights for decision-makers.
