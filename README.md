@@ -53,9 +53,10 @@ We analyzed **two years of monthly and daily sales data** from AdventureWorks, b
 ### 3️⃣ Holt-Winters (Python, Power BI)
 
 - Tested three configurations:
-  1- Add+Add+Add (Additive Trend, Additive Seasonality, Additive Damped)
-  2- Mul+Mul+Mul (Multiplicative Trend, Multiplicative Seasonality, Multiplicative Damped)
-  3- Mul+Mul+Dampened (Multiplicative Trend, Multiplicative Seasonality, Damped Trend)
+  
+  - Add+Add+Add (Additive Trend, Additive Seasonality, Additive Damped)
+  - Mul+Mul+Mul (Multiplicative Trend, Multiplicative Seasonality, Multiplicative Damped)
+  - Mul+Mul+Dampened (Multiplicative Trend, Multiplicative Seasonality, Damped Trend)
 
 **Best Model:**  
 🌟 **Mul+Mul+Damped**
