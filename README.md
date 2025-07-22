@@ -63,8 +63,8 @@ We analyzed **two years of monthly and daily sales data** from AdventureWorks, b
 | Metric        | Value         |
 |---------------|---------------|
 | 📈 MAPE       | ~**17.3%**    |
-| 📉 MAD        | ~$353,149~    |
-| 📊 RMSE       | ~$530,000~    |
+| 📉 MAD        | ~$353,149     |
+| 📊 RMSE       | ~$530,000     |
 
 **Strengths:**
 This suggests that a multiplicative approach for both trend and seasonality, along with a damped trend component, best fits the sales data. This makes sense given the "Time Series Decomposition" showing an increasing trend (which multiplicative often handles well if the seasonal variations grow with the trend) and the desire for the trend to flatten out in the long run (damped).
