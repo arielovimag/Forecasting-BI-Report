@@ -88,6 +88,7 @@ We analyzed **two years of monthly and daily sales data** from AdventureWorks, b
 **Strengths:**
 This suggests that a multiplicative approach for both trend and seasonality, along with a damped trend component, best fits the sales data. This makes sense given the "Time Series Decomposition" showing an increasing trend (which multiplicative often handles well if the seasonal variations grow with the trend) and the desire for the trend to flatten out in the long run (damped).
 
+![Time Series Decomposition](Forecasting_Screenshot_3.png)
 ---
 
 ### 4️⃣ SARIMA Model (Python, Power BI & Notebook)
