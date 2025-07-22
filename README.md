@@ -1,4 +1,4 @@
-![Forecasting_Analysis_Cover](azure_maps_cover.png)
+![Forecasting Analysis Cover](Forecasting_Analysis_Cover.png)
 
 ---
 
