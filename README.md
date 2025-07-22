@@ -9,7 +9,7 @@ We analyzed **two years of monthly and daily sales data** from AdventureWorks, b
 ## 🔗 Project Objectives
 
 - Forecast future sales for **12 months** to support strategic planning.
-- Compare **Multiple Regression**, **Holt-Winters (Exponential Smoothing)**, and **SARIMA** models.
+- Compare **Multiple Regression**, **Holt-Winters (Exponential Smoothing)**, and Power BI Built-In Forecast feature (Error, Trend, Seasonal).
 - Evaluate **accuracy, explainability, and robustness** of each model.
 - Identify business-relevant insights, weaknesses, and actionable recommendations.
 
@@ -46,16 +46,16 @@ We analyzed **two years of monthly and daily sales data** from AdventureWorks, b
 - Strong annual **seasonality** with peaks around Q2–Q3.
 - Gradual **upward trend** over time.
 - Residuals analysis showed no significant autocorrelation, suggesting good model fit.
-- A **shift in behavior observed in May 2020**, not captured by historical trends.
+- A **shift in behavior observed in August 2020**, not captured by historical trends.
 
 ---
 
 ### 3️⃣ Holt-Winters (Python, Power BI)
 
 - Tested three configurations:
-  - Additive Trend + Additive Seasonality
-  - Multiplicative Trend + Multiplicative Seasonality
-  - 🌟 Multiplicative Trend + Multiplicative Seasonality + **Damped Trend**
+  1- Add+Add+Add (Additive Trend, Additive Seasonality, Additive Damped)
+  2- Mul+Mul+Mul (Multiplicative Trend, Multiplicative Seasonality, Multiplicative Damped)
+  3- Mul+Mul+Dampened (Multiplicative Trend, Multiplicative Seasonality, Damped Trend)
 
 **Best Model:**  
 🌟 **Mul+Mul+Damped**
@@ -67,9 +67,7 @@ We analyzed **two years of monthly and daily sales data** from AdventureWorks, b
 | 📊 RMSE       | ~$530,000~    |
 
 **Strengths:**
-- More adaptive to recent changes.
-- Automatically assigns higher weight to recent observations.
-- Robust to moderate volatility.
+This suggests that a multiplicative approach for both trend and seasonality, along with a damped trend component, best fits the sales data. This makes sense given the "Time Series Decomposition" showing an increasing trend (which multiplicative often handles well if the seasonal variations grow with the trend) and the desire for the trend to flatten out in the long run (damped).
 
 ---
 
