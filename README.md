@@ -119,9 +119,13 @@ This event suggests the presence of an external factor (e.g., product launch, ma
 - Consider an **ensemble approach** combining both models’ strengths.
 - If computational resources permit, further explore tuned SARIMA or machine learning-based forecasting for long-term enhancement.
 
+🎯 **Leverage seasonality proactively**
+- Plan inventory, workforce & campaigns to match predictable peaks & troughs.
+- Avoid overstocking or missed sales.
+
 ---
 
-## 📚 Skills & Tools Demonstrated
+## 📚 Skills & Techniques Demonstrated
 
 - 📊 Business Analytics & KPI Reporting
 - 🐍 Python (`statsmodels`, `sklearn`, `matplotlib`)
@@ -129,6 +133,17 @@ This event suggests the presence of an external factor (e.g., product launch, ma
 - 📉 R Script Time Series Decomposition
 - 📊 Power BI Custom Visuals & Automation
 - 🧐 Forecast Accuracy Metrics: **MAPE, MAD, RMSE, R², Bias**
+
+---
+
+## 🔍 Skills Demonstrated
+
+✅ Business storytelling & insights  
+✅ Forecasting: Regression, Exponential Smoothing, SARIMA  
+✅ Residual & bias analysis  
+✅ Model evaluation: MAPE, MAD, RMSE, R²  
+✅ Power BI dashboarding & interactive KPIs  
+✅ R & Python integration  
 
 ---
 
@@ -144,4 +159,24 @@ By delivering accurate forecasts and identifying potential pitfalls, this analys
 
 ---
 
-*For questions or collaboration opportunities, feel free to reach out!*
+## 📂 Repository Contents
+
+- 📊 Power BI report screenshots
+- 📊 Power BI report (Public Web Link View)
+- 📈 Forecast model comparison charts
+- 📜 This README with business context & recommendations
+
+---
+
+## 👋 About Me
+
+I’m a **Supply Chain & BI analyst** with a passion for transforming data into actionable business stories.  
+If you’d like to discuss this project or see how I can help your team make smarter, data-driven decisions, feel free to reach out.
+
+---
+
+## 📬 Contact
+
+- 📧 Email: [your.email@example.com]
+- 🌐 LinkedIn: [your-linkedin-profile]
+- 📁 Portfolio: [link-to-your-portfolio]
