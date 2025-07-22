@@ -62,7 +62,8 @@ We analyzed **two years of monthly and daily sales data** from AdventureWorks, b
 - Gradual **upward trend** over time.
 - Residuals analysis showed no significant autocorrelation, suggesting good model fit.
 - A **shift in behavior observed in August 2020**, not captured by historical trends.
-
+  
+![Time Series Decomposition](Screenshot_Forecasting_1.png)
 ---
 
 ### 3️⃣ Holt-Winters (Python, Power BI)
