@@ -8,7 +8,7 @@
 [![Azure Maps](https://img.shields.io/badge/Azure-Maps-blue?logo=Microsoft%20Azure)]()
 
 
-# 📈 Sales Forecasting & Time Series Analysis: AdventureWorks Case Study
+# 📈 Sales Forecasting & Time Series Analysis: AdventureWorks Case Study - Phase 3
 
 This project explores **sales forecasting** using both traditional and advanced time series models, delivering actionable insights for decision-makers.
 
