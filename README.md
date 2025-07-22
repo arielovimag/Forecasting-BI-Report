@@ -2,7 +2,7 @@
 
 ---
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-blue?logo=Power%20BI)](https://app.powerbi.com/view?r=eyJrIjoiMDEzYTZmNjMtYjNjMS00YzUyLTlhOWEtODY4ZmY4ZmZjZmRiIiwidCI6IjQwOWY3ZjkzLTQ0N2EtNDBiYi05YzVjLWQ1MjI1M2E1ZjM5YiIsImMiOjZ9)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-blue?logo=Power%20BI)](https://app.powerbi.com/view?r=eyJrIjoiNmJlYWJkNTgtMzAzYy00NzgzLWIxMTYtZWU2MDlhY2FjZmMzIiwidCI6IjQwOWY3ZjkzLTQ0N2EtNDBiYi05YzVjLWQ1MjI1M2E1ZjM5YiIsImMiOjZ9)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?logo=GitHub)](https://github.com/arielovimag/adventureworks-bi-portfolio)
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red?logo=Microsoft%20SQL%20Server)]()
 [![Azure Maps](https://img.shields.io/badge/Azure-Maps-blue?logo=Microsoft%20Azure)]()
@@ -18,7 +18,7 @@ We analyzed **two years of monthly and daily sales data** from AdventureWorks, b
 
 ## 🔗 Live Power BI Report
 
-👉 [Click here to view the full interactive report]([PUBLIC-POWER-BI-SERVICE-LINK](https://app.powerbi.com/view?r=eyJrIjoiMDEzYTZmNjMtYjNjMS00YzUyLTlhOWEtODY4ZmY4ZmZjZmRiIiwidCI6IjQwOWY3ZjkzLTQ0N2EtNDBiYi05YzVjLWQ1MjI1M2E1ZjM5YiIsImMiOjZ9))
+👉 [Click here to view the full interactive report](https://app.powerbi.com/view?r=eyJrIjoiNmJlYWJkNTgtMzAzYy00NzgzLWIxMTYtZWU2MDlhY2FjZmMzIiwidCI6IjQwOWY3ZjkzLTQ0N2EtNDBiYi05YzVjLWQ1MjI1M2E1ZjM5YiIsImMiOjZ9)
 
 ---
 
