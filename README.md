@@ -16,6 +16,12 @@ We analyzed **two years of monthly and daily sales data** from AdventureWorks, b
 
 ---
 
+## 🔗 Live Power BI Report
+
+👉 [Click here to view the full interactive report]([PUBLIC-POWER-BI-SERVICE-LINK](https://app.powerbi.com/view?r=eyJrIjoiMDEzYTZmNjMtYjNjMS00YzUyLTlhOWEtODY4ZmY4ZmZjZmRiIiwidCI6IjQwOWY3ZjkzLTQ0N2EtNDBiYi05YzVjLWQ1MjI1M2E1ZjM5YiIsImMiOjZ9))
+
+---
+
 ## 🔗 Project Objectives
 
 - Forecast future sales for **12 months** to support strategic planning.
