@@ -193,6 +193,8 @@ If you’d like to discuss this project or see how I can help your team make sma
 
 ## 📬 Contact
 
-- 📧 Email: [your.email@example.com]
-- 🌐 LinkedIn: [your-linkedin-profile]
-- 📁 Portfolio: [link-to-your-portfolio]
+> **Ariel Oviedo Maglione**
+> 💻 Supply Chain Analyst | BI Analyst
+> 📞 (+34) 645584506  
+> 📧 arielovimag@gmail.com  
+> 💼 [LinkedIn Profile](https://www.linkedin.com/in/arielovimag/)
