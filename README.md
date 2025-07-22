@@ -56,7 +56,7 @@ We analyzed **two years of monthly and daily sales data** from AdventureWorks, b
   
   - Add+Add+Add (Additive Trend, Additive Seasonality, Additive Damped)
   - Mul+Mul+Mul (Multiplicative Trend, Multiplicative Seasonality, Multiplicative Damped)
-  - Mul+Mul+Dampened (Multiplicative Trend, Multiplicative Seasonality, Damped Trend)
+  - Mul+Mul+Damped (Multiplicative Trend, Multiplicative Seasonality, Damped Trend)
 
 **Best Model:**  
 🌟 **Mul+Mul+Damped**
@@ -89,18 +89,18 @@ This suggests that a multiplicative approach for both trend and seasonality, alo
 
 ## 🔍 Observed Structural Shift: May 2020
 
-In **May 2020**, actual sales exhibited a noticeable **upward shift** not anticipated by the Regression Model (trained on pre-2020 data).  
+In **August 2020**, actual sales exhibited a noticeable **upward shift** not anticipated by the Regression Model (trained on pre-2020 data).  
 This event suggests the presence of an external factor (e.g., product launch, market change) that introduced a structural break.
 
 - 📌 Regression Model could not capture this as it relies on fixed assumptions.
 - 📌 Holt-Winters, being adaptive, responded better to this change.
-- 📌 SARIMA, while flexible, struggled due to complexity & resource constraints.
+
 
 ---
 
 ## 🚀 Business-Friendly Summary & Recommendations
 
-> *“The Regression Model remains the most accurate and interpretable choice based on historical data. However, the structural shift observed in May 2020 — which was not accounted for in the trained model — could make forecasts less reliable if similar disruptions occur in the future.”*
+> *“The Regression Model remains the most accurate and interpretable choice based on historical data. However, the structural shift observed in August 2020 — which was not accounted for in the trained model — could make forecasts less reliable if similar disruptions occur in the future.”*
 
 ### Recommendations:
 
@@ -125,7 +125,7 @@ This event suggests the presence of an external factor (e.g., product launch, ma
 
 - 📊 Business Analytics & KPI Reporting
 - 🐍 Python (`statsmodels`, `sklearn`, `matplotlib`)
-- 📈 Excel Multiple Regression
+- 📈 Excel Multiple Regression + Residual Analysis + Autocorrelation and Accuracy Validation 
 - 📉 R Script Time Series Decomposition
 - 📊 Power BI Custom Visuals & Automation
 - 🧐 Forecast Accuracy Metrics: **MAPE, MAD, RMSE, R², Bias**
